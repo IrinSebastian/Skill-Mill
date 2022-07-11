@@ -19,7 +19,7 @@
 <body>
 	<?php
 		include "nav.php";
-		$strconn=mysqli_connect("localhost","root","","project");
+		$strconn=mysqli_connect("localhost","root","","skillmill");
 		if(!$strconn)
 			echo "Connection failed".mysqli_connect_error();
 		else{}
@@ -98,7 +98,7 @@
 						<a href="manageuser.php">
 						<i class="fa fa-cogs fa-2x"></i>
 						<div class="text">
-							<h3>Manage Users</h3>
+							<h3>Manage user_info</h3>
 							
 						</div>
 						</a>

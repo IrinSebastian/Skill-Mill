@@ -77,7 +77,7 @@ echo '</pre>';
 
 <h1>HTML5 <?php $str='<datalist>'; echo htmlspecialchars($str); ?> Element</h1>
 <p>The <?php $str='<datalist>'; echo htmlspecialchars($str); ?> element specifies a list of pre-defined options for an <?php $str='<input>'; echo htmlspecialchars($str); ?> element.</p>
-<p>Users will see a drop-down list of the pre-defined options as they input data.</p>
+<p>user_info will see a drop-down list of the pre-defined options as they input data.</p>
 <p>The list attribute of the <?php $str='<input>'; echo htmlspecialchars($str); ?> element, must refer to the id attribute of the <?php $str='<datalist>'; echo htmlspecialchars($str); ?> element.</p>
 <h4><b>Example</b></h4>
 <?php
@@ -99,7 +99,7 @@ echo '</pre>';
 <hr>
 
 <h1>HTML5 <?php $str='<keygen>'; echo htmlspecialchars($str); ?> Element</h1>
-<p>The purpose of the <?php $str='<keygen>'; echo htmlspecialchars($str); ?> element is to provide a secure way to authenticate users.</p>
+<p>The purpose of the <?php $str='<keygen>'; echo htmlspecialchars($str); ?> element is to provide a secure way to authenticate user_info.</p>
 <p>The <?php $str='<keygen>'; echo htmlspecialchars($str); ?> element specifies a key-pair generator field in a form.</p>
 <p>When the form is submitted, two keys are generated, one private and one public.</p>
 <p>The private key is stored locally, and the public key is sent to the server.</p>

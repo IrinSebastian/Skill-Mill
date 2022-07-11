@@ -27,7 +27,7 @@
 <body>
 	<?php
 		include "nav.php";
-		$strconn=mysqli_connect("localhost","root","","project");
+		$strconn=mysqli_connect("localhost","root","","skillmill");
 		if(!$strconn)
 			echo "Connection failed".mysqli_connect_error();
 		else{}
