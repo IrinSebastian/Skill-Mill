@@ -4,5 +4,5 @@ This site includes online text editor for HTML and CSS and also has experts avai
 Also, has an admin panel for better control of the database and users.
 
 Import the database in your choice of Database Tools.
-The database file is located in db/project.sql.
+The database file is located in db/skillmill.sql.
 I have used the phpmyadmin for creating and storing of my database.
