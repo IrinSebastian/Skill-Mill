@@ -67,7 +67,7 @@
 					<div class="col-md-6 panel">
 						<div class="panel-body">
 							<p class="text-right">
-								Copyright &copy; Parth Varde <a href="#" rel="develop">parthvarde</a>
+								Copyright &copy; Skill Mill <a href="#" rel="develop">Skill Mill</a>
 							</p>
 						</div>
 					</div>

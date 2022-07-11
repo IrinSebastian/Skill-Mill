@@ -37,8 +37,8 @@
 			<div class="banner-content">
 				<div id="da-slider" class="da-slider">
 					<div class="da-slide">
-						<h2>Online Education</h2>
-						<p>The purpose is to teach</p>
+						<h2>Skill Mill</h2>
+						<p>Hand in Hand we Learn</p>
 						<div class="da-img"></div>
 					</div>
 					<div class="da-slide">

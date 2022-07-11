@@ -135,7 +135,7 @@ CREATE TABLE `feedback` (
 --
 
 INSERT INTO `feedback` (`Description`, `name`, `email`) VALUES
-('Hello', 'Parth Varde', 'parthvarde50@gmail.com');
+('Hello', 'Irin Sebastian', 'irinksebastian@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -160,7 +160,7 @@ CREATE TABLE `purchase` (
 --
 
 INSERT INTO `purchase` (`Book`, `OrderNo`, `Full`, `Addr`, `City`, `PinCode`, `State`, `Email`, `Mobile`) VALUES
-('HTML Complete Reference', 4, 'Parth Varde', 'dshjgjhdsjg					', 'Ahmedabad', 380051, 'Gujarat', 'parthvarde50@gmail.com', '8488061712');
+('HTML Complete Reference', 4, 'Aiswarya', 'dshjgjhdsjg					', 'Ahmedabad', 380051, 'Gujarat', 'aiswaryaraju0407@gmail.com', '8488061712');
 
 -- --------------------------------------------------------
 
@@ -180,8 +180,8 @@ CREATE TABLE `que` (
 --
 
 INSERT INTO `que` (`QueID`, `UserID`, `UserName`, `Description`) VALUES
-(1, 13, 'parth', 'What is HTML?'),
-(3, 13, 'parth', 'What is CSS?');
+(1, 13, 'Aiswarya', 'What is HTML?'),
+(3, 13, 'Aiswarya', 'What is CSS?');
 
 -- --------------------------------------------------------
 
@@ -227,8 +227,9 @@ CREATE TABLE `user_info` (
 --
 
 INSERT INTO `user_info` (`User_id`, `FirstName`, `LastName`, `Gender`, `Email_id`, `UserName`, `Password`) VALUES
-(13, 'Parth', 'Varde', 'male', 'parthvarde50@gmail.com', 'parth', 'asdf'),
-(14, 'Dhaval ', 'Dave', 'male', 'dhavaldave055@gmail.com', 'dhaval', 'asdf');
+(13, 'Aiswarya', 'Raju', 'female', 'aiswaryaraju0407@gmail.com', 'aiswarya', 'aishu'),
+(14, 'Akash ', 'Manuel', 'male', 'akashmanuel@gmail.com', 'akash', 'akash'),
+(16, 'Dona S', 'Plavelil', 'female', 'donasplavelil@gmail.com', 'dona', 'dona');
 
 --
 -- Indexes for dumped tables

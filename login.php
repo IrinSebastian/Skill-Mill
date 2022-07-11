@@ -118,7 +118,7 @@ th, td {
 		}
 		$message = "Use This Password To Login in :".$pass;
 		$subject = "Your Recovered Password";
-		$headers = "From : parthvarde50@gmail.com";
+		$headers = "From : Skill Mill50@gmail.com";
 		if($email)
 		{
 			echo "<div class='alert alert-success' role='alert'>Password successfully sent to your registered Email ID</div>";
