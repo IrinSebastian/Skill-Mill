@@ -23,7 +23,7 @@
 </head>
 
 <?php
-$strconn=mysqli_connect("localhost","root","","project");
+$strconn=mysqli_connect("localhost","root","","skillmill");
 		if(!$strconn)
 			echo "Connection failed".mysqli_connect_error();
 		  
@@ -46,8 +46,8 @@ session_start();
 .color{
 	color: 336699;
 }
-</head>
 </style>
+</head>
 <body>
 <div style="width:800px; height:700px; padding:20px; text-align:center; border:
 10px solid #787878; font-family:fantasy; border-color: 336699">
