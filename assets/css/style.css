@@ -1,5 +1,5 @@
 /*
-Theme: eLearning - Free Educational Responsive Web Template
+Theme: Skill Mill
 Description: Free to use for personal and commercial use
 Author: WebThemez.com
 Website: http://webthemez.com
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1, h2, .h2, h3, .h3 {
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 h2 {
@@ -45,18 +45,18 @@ label {
 #head {
     background: #181015 url( ../images/bg_header.jpg) no-repeat;
     background-size: cover;
-    min-height: 520px;
+    min-height: 320px;
     text-align: center;
     color: white;
     font-weight: 300;
     position: relative;
-    border-top: 1px solid #0b9ff3;
+    border-top: 1px solid #6C2BD9;
     background-position-x: center;
 }
 
     #head.secondary {
-        height: 100px;
-        min-height: 100px;
+        height: 50px;
+        min-height: 50px;
         padding-top: 0px;
     }
 
@@ -132,7 +132,7 @@ label {
 }
 
     .btn-action:hover, .btn-primary:hover {
-        background: #04a0b7;
+        background: #6C2BD9;
     }
 
 .slideUp {
@@ -155,12 +155,12 @@ label {
 
         .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
             background: none;
-            color: #0b9ff3 !important;
+            color: #6C2BD9 !important;
         }
 
     .navbar-inverse .navbar-nav > .active > a {
         background: none;
-        color: #0b9ff3;
+        color: #6C2BD9;
     }
 
     .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > .open ul > a {
@@ -178,7 +178,7 @@ label {
     .h-caption i {
         display: block;
         font-size: 54px;
-        color: #0b9ff3;
+        color: #6C2BD9;
         margin-bottom: 36px;
     }
 
@@ -306,8 +306,8 @@ img {
     .featured-box i {
         position: absolute;
         display: inline-block;
-        color: #0b9ff3;
-        border: solid 2px #0b9ff3;
+        color: #6C2BD9;
+        border: solid 2px #6C2BD9;
         background: #fff;
         padding: 0px;
         border-radius: 50px;
@@ -336,12 +336,12 @@ footer {
     }
 
         .social a:hover {
-            color: #0b9ff3;
+            color: #6C2BD9;
         }
 /* Footer */
 .footer1 {
     background: #fff;
-    padding: 30px 0 0 0;
+    padding: 10px 0 0 0;
     font-size: 12px;
     color: #999;
 }
@@ -362,7 +362,7 @@ footer {
         font-size: 17px;
         font-weight: bold;
         color: #ccc;
-        margin: 0 0 20px;
+        margin: 0 0 10px;
     }
 
     .footer1 .entry-meta {
@@ -392,12 +392,12 @@ footer {
     .follow-me-icons i {
         float: left;
         margin: 0 10px 0 0;
-        color: #0b9ff3;
+        color: #6C2BD9;
     }
 
 .footer2 {
     background: #060a1b;
-    padding: 15px 0;
+    padding: 10px 0;
     color: #777;
     font-size: 12px;
 }
@@ -423,7 +423,7 @@ footer {
     }
 
 #services .fa {
-    color: #0b9ff3;
+    color: #6C2BD9;
 }
 /* carousel */
 #quote-carousel {
@@ -534,13 +534,13 @@ nav#filter {
     nav#filter a {
         padding: 4px 12px;
         line-height: 20px;
-        border: 1px solid #00bfff;
+        border: 1px solid #6C2BD9;
         text-decoration: none;
-        color: #00bfff;
+        color: #6C2BD9;
     }
 
         nav#filter a.current {
-            background: #00bfff;
+            background: #6C2BD9;
             color: #fff;
         }
 
@@ -661,7 +661,7 @@ nav#filter {
 
 .da-dots span.da-dots-current:after {
     content: '';
-    background: #0b9ff3;
+    background: #6C2BD9;
 }
 
 .team-member {
@@ -700,7 +700,7 @@ nav#filter {
     }
 
         .team-socials i:hover {
-            color: #0b9ff3;
+            color: #6C2BD9;
         }
 
 .team-member h4 {
@@ -718,11 +718,11 @@ nav#filter {
 }
 
 #head.secondary {
-    height: 100px;
-    min-height: 100px;
+    height: 70px;
+    min-height: 70px;
     padding-top: 0px;
     background: #181015 url(../images/bg_header.jpg) 0px -232px no-repeat;
-    background: #0b9ff3;
+    background: #6C2BD9;
     background-size: cover;
     text-align: left;
 }
@@ -781,11 +781,11 @@ nav#filter {
         }
 
             .flat .plan.featured:hover li.plan-name, .flat .plan:hover li.plan-name, .flat .plan.featured.plan-name {
-                background: #00bfff !important;
+                background: #6C2BD9 !important;
             }
 
 .btn {
-    background: #00bfff;
+    background: #6C2BD9;
     color: #fff;
 }
 .footer2 a {

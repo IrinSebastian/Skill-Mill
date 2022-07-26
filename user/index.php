@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="eLearning is a modern and fully responsive Template by WebThemez.">
 	<meta name="author" content="webThemez.com">
-	<title>About - Techro Bootstrap template</title>
+	<title>Skill Mill</title>
 	<link rel="favicon" href="../assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
@@ -56,7 +56,7 @@
 					<a href="courses.php">
 						<i class="fa fa-cogs fa-2x"></i>
 						<div class="text">
-							<h3>Courses</h3>
+							<h3>Choose your <br>Courses</h3>
 							
 						</div>
 					</a>
@@ -78,7 +78,7 @@
 					<a href="manage.php">
 						<i class="fa fa-leaf fa-2x"></i>
 						<div class="text">
-							<h3>Manage Profile</h3>
+							<h3>Manage your<br> Profile</h3>
 							
 						</div>
 					</a>
@@ -87,9 +87,7 @@
 			</div>
 		</section>
 	</div>
-	<?php
-		include "footer.php";
-	?>
+	
 	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>

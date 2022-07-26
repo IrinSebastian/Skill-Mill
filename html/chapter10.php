@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>eLearning - Free Educational Responsive Web Template </title>
+	<title>Skill Mill </title>
 	<link rel="favicon" href="assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -66,14 +66,14 @@ echo '</pre>';
 <h1>Answer the following question correct answer will lead you to next chapter.</h1>
 					<h3><label>1) What is use of<?php $s='<div>'; echo htmlspecialchars($s);?>in HTML?</label>
 					<div class="radio">
-		<label><input type="radio" name="optradio" value="a">it is used as a container for other HTML elements.</label>
+		<label><input type="radio" name="optradio" value="a">it is used as a container for other HTML elements</label>
 	</div>
 	<div class="radio">
-		<label><input type="radio" name="optradio" value="b">it is used as an id for other HTML elements.</label>
+		<label><input type="radio" name="optradio" value="b">it is used as an id for other HTML elements</label>
 	</div>
 	
 	<div class="radio">
-		<label><input type="radio" name="optradio" value="c">it is used as a name for other HTML elements.</label>
+		<label><input type="radio" name="optradio" value="c">it is used as a name for other HTML elements</label>
 	</div>
 		<button type="submit" class="btn btn-primary" name="submit">Submit</button>
 
@@ -84,12 +84,12 @@ echo '</pre>';
 		$radval=$_POST['optradio'];
 		if($radval=="a")
 		{
-			//echo 'true';
+			echo '<br>Correct Answer</br>';
 			echo '<a href="chapter11.php" class="btn">Next>></a>';
 		}
 		else
 		{
-			echo "<div class='alert alert-danger' role='alert'>Incorrect Answer</div>";
+			echo "<div class='alert alert-danger' role='alert'>Incorrect Answer<br>Correct Answer: it is used as a container for other HTML elements</br></div>";
 		}
 	}
 ?>

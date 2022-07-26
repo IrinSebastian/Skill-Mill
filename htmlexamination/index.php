@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="eLearning is a modern and fully responsive Template by WebThemez.">
 	<meta name="author" content="webThemez.com">
-	<title>About - Techro Bootstrap template</title>
+	<title>Skill Mill</title>
 	<link rel="favicon" href="../assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
@@ -53,7 +53,7 @@
       <p>The test contains 10 questions and there is no time limit.it's a nice way to see how much you know or don't know about HTML.</p>
 		  <p>At the end of the exam you will get certificate.</p>
 	 <p>Good Luck!!</p>
-	 <a href="que1.php" class="btn">Start>></a>
+	 <a href="finalquiz.php" class="btn">Start>></a>
 	</div> 	
 <br>
 	<?php

@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="eLearning is a modern and fully responsive Template by WebThemez.">
 	<meta name="author" content="webThemez.com">
-	<title>About - Techro Bootstrap template</title>
+	<title>Skill Mill</title>
 	<link rel="favicon" href="assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -55,7 +55,7 @@
 				<div class="col-md-4">
 					<div class="featured-box">
 					<a href="HTML.php">
-						<i class="fa fa-cogs fa-2x"></i>
+						<i class="fa fa-star fa-2x"></i>
 						<div class="text">
 							<h3>HTML</h3>
 							This FREE Tutorial will teach you how to design a webpage using HTML.Complete a series of hands-on practice and examination while writing real HTML code.
@@ -66,7 +66,7 @@
 				<div class="col-md-4">
 					<div class="featured-box">
 					<a href="CSS.php">
-						<i class="fa fa-leaf fa-2x"></i>
+						<i class="fa fa-star fa-2x"></i>
 						<div class="text">
 							<h3>CSS</h3>
 							Our CSS Tutorial will teach you how to control the style & layout of websites.Complete a series of practice and examination while filling out actual CSS code.
@@ -80,7 +80,7 @@
 					echo '<div class="col-md-4">';
 					echo '<div class="featured-box">';
 					echo '<a href="new.php">';
-					echo '<i class="fa fa-leaf fa-2x"></i>';
+					echo '<i class="fa fa-star fa-2x"></i>';
 					echo '<div class="text">';
 					echo '<h3>'.$row[0].'</h3>';
 					echo $row[1];
@@ -93,9 +93,7 @@
 			</div>
 		</section>
 	</div>
-	<?php
-		include "footer.php";
-	?>
+	 
 	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>

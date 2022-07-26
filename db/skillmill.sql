@@ -92,7 +92,7 @@ CREATE TABLE `expertsugg` (
 --
 
 INSERT INTO `expertsugg` (`ExpertID`, `Name`, `Email_id`, `Subject`, `Description`) VALUES
-(1, 'Parth Varde', 'parthvarde50@gmail.com', 'About Chapter', 'Insert new chapter in CSS course');
+(1, 'Irin Sebastian', 'irinksebastian@gmail.com', 'About Chapter', 'Insert new chapter in CSS course');
 
 -- --------------------------------------------------------
 
@@ -116,7 +116,7 @@ CREATE TABLE `expert_info` (
 --
 
 INSERT INTO `expert_info` (`Expert_id`, `FirstName`, `MiddleName`, `LastName`, `Email_id`, `Gender`, `UserName`, `Password`) VALUES
-(1, 'Parth', 'Rakesh', 'Varde', 'parthvarde50@gmail.com', 'male', 'parth', 'asdf');
+(1, 'Aiswarya', 'R', 'Raju', 'aiswaryaraju04@gmail.com', 'female', 'Aiswarya', '12345');
 
 -- --------------------------------------------------------
 
@@ -213,12 +213,12 @@ CREATE TABLE `subject` (
 --
 
 CREATE TABLE `user_info` (
-  `User_id` int(12) NOT NULL,
+  `User_id` int(20) NOT NULL,
   `FirstName` varchar(20) NOT NULL,
   `LastName` varchar(20) NOT NULL,
   `Gender` varchar(6) NOT NULL,
   `Email_id` varchar(40) NOT NULL,
-  `UserName` varchar(10) NOT NULL,
+  `UserName` varchar(20) NOT NULL,
   `Password` varchar(40) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 

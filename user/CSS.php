@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>eLearning - Free Educational Responsive Web Template </title>
+	<title>Skill Mill </title>
 	<link rel="favicon" href="assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -42,8 +42,8 @@
 			<li>Chapter 5: CSS Margins</li>
 			<li>Chapter 6: CSS Padding</li>
 			</ol>
-			<button onclick="location.href='purchase.php'" class="btn btn-block">Purchase Now>></button><br>
-			<button onclick="location.href='../download/index.php'" class="btn btn-block">Download free E-Books</button><br>
+			<!-- <button onclick="location.href='purchase.php'" class="btn btn-block">Purchase Now>></button><br>
+			<button onclick="location.href='../download/index.php'" class="btn btn-block">Download free E-Books</button><br> -->
 
 		</div>
 	

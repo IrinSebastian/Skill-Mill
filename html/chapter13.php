@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>eLearning - Free Educational Responsive Web Template </title>
+	<title>Skill Mill </title>
 	<link rel="favicon" href="assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -139,12 +139,12 @@ echo '</pre>';
 		$radval=$_POST['optradio'];
 		if($radval=="a")
 		{
-			//echo 'true';
+			echo '<br>Correct Answer</br>';
 			echo '<a href="chapter14.php" class="btn">Next>></a>';
 		}
 		else
 		{
-			echo "<div class='alert alert-danger' role='alert'>Incorrect Answer</div>";
+			echo "<div class='alert alert-danger' role='alert'>Incorrect Answer<br>Correct Answer: it defines a multi-line input field</br></div>";
 		}
 	}
 ?>

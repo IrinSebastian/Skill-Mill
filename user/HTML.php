@@ -4,7 +4,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="eLearning is a modern and fully responsive Template by WebThemez.">
 	<meta name="author" content="webThemez.com">
-	<title>eLearning - Free Educational Responsive Web Template </title>
+	<title>Skill Mill </title>
 	<link rel="favicon" href="assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -43,11 +43,14 @@
 			<li>Chapter 11: HTML Iframes</li><li>Chapter 12: The<?php $str='<form>'; echo htmlspecialchars($str); ?> Element</li>
 			<li>Chapter 13: The<?php $str='<select>'; echo htmlspecialchars($str); ?> Element</li>
 			<li>Chapter 14: Input Type Text</li>
-			</ol><button onclick="location.href='purchase.php'" class="btn btn-block">Purchase Now>></button><br>
-			<button onclick="location.href='../download/index.php'" class="btn btn-block">Download free E-Books</button><br>
+			
+			
 		</div>
 	<?php
 		include "footer.php";
 	?>
 </body>
 </html>
+
+<!--<button onclick="location.href='../download/index.php'" class="btn btn-block">Download free E-Books</button><br>
+	</ol><button onclick="location.href='purchase.php'" class="btn btn-block">Purchase Now>></button><br> -->

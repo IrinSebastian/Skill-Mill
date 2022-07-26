@@ -70,7 +70,7 @@
 						<a href="subject.php">
 						<i class="fa fa-cogs fa-2x"></i>
 						<div class="text">
-							<h3>Add Subject</h3>
+							<h3>Add Course</h3>
 							
 						</div>
 						</a>
@@ -122,10 +122,10 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="featured-box">
-						<a href="order.php">
+						<a href="finalexamination.php">
 						<i class="fa fa-cogs fa-2x"></i>
 						<div class="text">
-							<h3>Orders</h3>
+							<h3>Final Exam</h3>
 							
 						</div>
 						</a>

@@ -1,7 +1,7 @@
-<html>
+<!-- <html>
 <head>
 </head>
-<body>
+<body> -->
 <!-- container -->
 	<!--<section class="container">
 		<div class="heading">
@@ -21,20 +21,20 @@
 			</div>
 		</div>
 	</section>-->
-	<footer id="footer">
-		<div class="container">
+	<!-- <footer id="footer"> -->
+		<!-- <div class="container">
 			<div class="social text-center">
 				<a href="#"><i class="fa fa-twitter"></i></a>
 				<a href="#"><i class="fa fa-facebook"></i></a>
 				<a href="#"><i class="fa fa-dribbble"></i></a>
 				<a href="#"><i class="fa fa-flickr"></i></a>
 				<a href="#"><i class="fa fa-github"></i></a>
-			</div>
+			</div> -->
 
-			<div class="clear"></div>
+			<!-- <div class="clear"></div> -->
 			<!--CLEAR FLOATS-->
-		</div>
-		<div class="footer2">
+		<!-- </div> -->
+		<!-- <div class="footer2">
 			<div class="container">
 				<div class="row">
 
@@ -47,20 +47,20 @@
 								<a href="contact.php">Feedback</a>
 							</p>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-md-6 panel">
+					<!-- <div class="col-md-6 panel">
 						<div class="panel-body">
 							<p class="text-right">
-								Copyright &copy; Skill Mill <a href="#" rel="develop">Skill Mill</a>
+								Copyright &copy; Skill Mill
 							</p>
 						</div>
-					</div>
+					</div> -->
 
-				</div>
+				<!-- </div> -->
 				<!-- /row of panels -->
-			</div>
-		</div>
-	</footer>
+			<!-- </div>
+		</div> --> 
+	<!-- </footer>
 </body>
-</html>
+</html> -->

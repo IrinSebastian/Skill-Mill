@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="eLearning is a modern and fully responsive Template by WebThemez.">
 	<meta name="author" content="webThemez.com">
-	<title>About - Techro Bootstrap template</title>
+	<title>Skill Mill</title>
 	<link rel="favicon" href="../assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
@@ -43,7 +43,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-8">
-					<h1>HTML Examination</h1>
+					<h1>CSS Examination</h1>
 				</div>
 			</div>
 		</div>
